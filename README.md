@@ -1,6 +1,6 @@
 # Egghunt 2023
 
-last update: 2023-04-09T10:03:03
+last update: 2023-04-09T10:16:29
 
 Overview of offers found.
 
@@ -26,23 +26,23 @@ Price | Description | Stats
 
 ## vps
 
-Price | Description | Stats
---: | :-- | :--
-5.76 EUR | VPS 500 G10 NUE OST23 | 4 vC, 4 GB, 80 GB
-9.53 EUR | VPS 1000 G10 SE NUE OST23 | 8 vC, 8 GB, 240 GB
+Price | Description | Stats | diff
+--: | :-- | :-- | :--
+5.76 EUR | VPS 500 G10 NUE OST23 | 4 vC, 4 GB, 80 GB | 0.27 EUR
+9.53 EUR | VPS 1000 G10 SE NUE OST23 | 8 vC, 8 GB, 240 GB | 2 vC, 0 GB, 80 GB
 13.52 EUR | VPS 2000 G10 NUE OST23 |
-25.92 EUR | VPS 4000 G10 NUE OST23 | 12 vC, 24 GB, 960 GB
+25.92 EUR | VPS 4000 G10 NUE OST23 | 12 vC, 24 GB, 960 GB | 0.87 EUR
 34.88 EUR | VPS Carrot NUE |
 
 ## rs
 
-Price | Description | Stats
---: | :-- | :--
+Price | Description | Stats | diff
+--: | :-- | :-- | :--
 9.81 EUR | RS 1000 G9.5 SE NUE OST23 |
 17.45 EUR | RS 2000 G9.5 NUE OST23 |
-24.43 EUR | RS 3000 G9.5 SE NUE OST23 | 8 C, 24 GB, 960 GB
-32.75 EUR | RS 4000 G9.5 NUE OST23 | 10 C, 32 GB, 1 TB
-56.66 EUR | RS Eggstreme NUE | 16 C, 64 GB, 3 TB
+24.43 EUR | RS 3000 G9.5 SE NUE OST23 | 8 C, 24 GB, 960 GB | n/a
+32.75 EUR | RS 4000 G9.5 NUE OST23 | 10 C, 32 GB, 1 TB | 1.16 EUR
+56.66 EUR | RS Eggstreme NUE | 16 C, 64 GB, 3 TB | 2 C, 0 GB, 1 TB - 0.01 EUR
 
 ## other
 
