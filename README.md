@@ -1,6 +1,6 @@
 # Egghunt 2023
 
-last update: 2023-04-09T11:34:09
+last update: 2023-04-09T11:48:15
 
 Overview of offers found.
 No guarantees.
@@ -39,8 +39,8 @@ Price | Description | Stats | diff
 
 Price | Description | Stats | diff
 --: | :-- | :-- | :--
-9.81 EUR | RS 1000 G9.5 SE NUE OST23 |
-17.45 EUR | RS 2000 G9.5 NUE OST23 |
+9.81 EUR | RS 1000 G9.5 SE NUE OST23 | 4 C, 8 GB, 320 GB | 0 C, 0 GB, 160 GB
+17.45 EUR | RS 2000 G9.5 NUE OST23 | 6 C, 16 GB, 320 GB | (more expensive) 0.56 EUR
 24.43 EUR | RS 3000 G9.5 SE NUE OST23 | 8 C, 24 GB, 960 GB | n/a
 32.75 EUR | RS 4000 G9.5 NUE OST23 | 10 C, 32 GB, 1 TB | 1.16 EUR
 56.66 EUR | RS Eggstreme NUE | 16 C, 64 GB, 3 TB | 2 C, 0 GB, 1 TB - 0.01 EUR
