@@ -19,12 +19,12 @@ Price | Description
 
 ## hosting
 
-Price | Description | Stats
---: | :-- | :--
-1.08 EUR | Webhosting 1000 SE OST23 |
-2.58 EUR | Webhosting 2000 SE OST23 |
-5.05 EUR | Webhosting 4000 SE OST23 |
-6.21 EUR | Webhosting BunnyEars |
+Price | Description
+--: | :--
+1.08 EUR | Webhosting 1000 SE OST23
+2.58 EUR | Webhosting 2000 SE OST23
+5.05 EUR | Webhosting 4000 SE OST23
+6.21 EUR | Webhosting BunnyEars
 
 ## vps
 
