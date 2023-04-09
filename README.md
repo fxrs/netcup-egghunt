@@ -1,8 +1,9 @@
 # Egghunt 2023
 
-last update: 2023-04-09T10:16:29
+last update: 2023-04-09T10:37:39
 
 Overview of offers found.
+No guarantees.
 
 ## domains
 
@@ -30,9 +31,9 @@ Price | Description | Stats | diff
 --: | :-- | :-- | :--
 5.76 EUR | VPS 500 G10 NUE OST23 | 4 vC, 4 GB, 80 GB | 0.27 EUR
 9.53 EUR | VPS 1000 G10 SE NUE OST23 | 8 vC, 8 GB, 240 GB | 2 vC, 0 GB, 80 GB
-13.52 EUR | VPS 2000 G10 NUE OST23 |
+13.52 EUR | VPS 2000 G10 NUE OST23 | 8 vC, 12 GB, 320 GB | (more expensive) 0.45 EUR
 25.92 EUR | VPS 4000 G10 NUE OST23 | 12 vC, 24 GB, 960 GB | 0.87 EUR
-34.88 EUR | VPS Carrot NUE |
+34.88 EUR | VPS Carrot NUE | 16 vC, 36 GB, 2300 GB | 2 vC, 0 GB, 764 GB
 
 ## rs
 
