@@ -1,5 +1,7 @@
 # Egghunt 2023
 
+last update: 2023-04-09T08:55:21
+
 ## domains
 
 0.13 EUR, AKTION .de-Domain 13 Cent OST23
