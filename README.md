@@ -1,4 +1,4 @@
-# Egghunt 2023
+# Netcup Egghunt
 
 last update: 2023-04-09T23:12:02
 
